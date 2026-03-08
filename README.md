@@ -1,7 +1,11 @@
-# uwu found me in a little corner of the world!
-I'm **Richard Xue** _aka. Kwicxy_, An undergraduate student from ZSTU.
+## uwu found me in a little corner of the world!
 
-![Chise](https://github.com/user-attachments/assets/e2a17dc6-d253-4be1-a2c6-f22ef47c663c)
+![noi](https://github.com/user-attachments/assets/9949921e-8905-417d-a1ed-e9ec2c8a4362)
+
+Name is **Richard Xue** _aka. Kwicxy_, an undergraduate student from ZSTU.
+
+Currently preparing for the postgraduate entrance examination.
+
 
 ## Languages and Tools I Use
 | Programming Languages | Natural (Human) Languages |
